@@ -1,0 +1,135 @@
+
+body{
+background-color: #0c2ef0;
+}
+.kk{
+margin: 100px auto;
+width:1000px;
+background-color: antiquewhite;
+}
+.ground{
+height: 500px;
+margin: 100px auto;
+width:1000px;
+padding: 10px;
+border: white dotted 3px ;
+background-color: green;
+}
+.ground .kp{
+height: 510px;
+margin-top: -10px;
+margin: auto;
+width:1px;
+border: white dotted 1px ;
+
+}
+.ground .kp .cntrl{
+height: 110px;
+width: 100px;
+
+margin: 180px auto;
+margin-left: 410px;
+position: relative;
+
+
+border: dotted white 2px;
+}
+.ss img{
+
+width: 20px;
+height: 20px;
+margin: 250px auto;
+margin-top: -700px;
+position: relative;
+animation-name: example;
+animation-duration: 4s;
+animation-iteration-count: 40;
+animation-direction: linear ;  
+}
+.mm{
+margin-top: -110px;
+margin-left: 130px;
+height: 100px;
+}
+
+@keyframes example {
+0%   {left:0px; top:0px;}
+25%  { left:100px; top:10px;}
+50%  { left:400px; top:10px;}
+75%  { left:0px; top:30px;}
+100% { left:0px; top:30px;}
+}
+
+
+
+
+.ground .kp .cntrl{
+height: 110px;
+width: 100px;
+
+
+margin: 180px auto;
+margin-left: 410px;
+
+border: dotted white 2px;
+}
+.second_cntrl{
+height: 50px;
+width: 50px;
+margin-top: -350px;
+margin-left: 50px;
+border-top: none;
+border-radius: 50%;
+border: dotted white 2px;
+}
+.me{
+height: 200px;
+width: 200px;
+margin-left: 400px;
+border: dotted white 3px;
+margin-top: -410px;
+border-radius: 50%;
+
+
+}
+.left{
+height: 110px;
+width: 100px;
+margin-top: -410px;
+margin-left: 155px;
+border: dotted white 2px;
+
+}
+.second_left{
+height: 50px;
+width: 50px;
+border-radius: 50%;
+
+margin-top: 256px;
+margin-left: -5px;
+
+border: dotted white 2px;
+
+
+}
+.mm img{
+height: 130px;
+width: 130px;
+margin-left:20px;
+margin-top: -20px;
+}
+
+.yvan{
+height: 200px;
+width: 200px;
+border: dotted rgb(207, 230, 3) 2px;
+margin-top: -300px;
+}
+.alice{
+height: 200px;
+width: 200px;
+border: dotted rgb(252, 235, 7) 2px;
+margin-top: -50px;
+margin-left: -100px;
+
+}
